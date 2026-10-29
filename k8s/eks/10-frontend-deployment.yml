@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: devboard-frontend
-        image: snigdhach/devboard-frontend:817b5cf
+        image: snigdhach/devboard-frontend:d4c62e4
         ports:
         - containerPort: 4173
         resources:
